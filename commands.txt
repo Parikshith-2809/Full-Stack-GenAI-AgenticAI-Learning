@@ -1,0 +1,6 @@
+uv python list  # list all versions of python
+
+uv venv env --python cpython-3.12.13-windows-x86_64-none  # create virtual env using uv python
+
+env\Scripts\activate   # activate venv
+
